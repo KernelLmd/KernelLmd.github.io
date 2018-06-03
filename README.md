@@ -1,2 +1,2 @@
 # kernellmd.github.com
-个人博客: https://www.kernellmd.github.io
+个人博客: https://kernellmd.github.io
